@@ -1,0 +1,27 @@
+{
+  "main": [
+    "quick_p1",
+    "clock_digital",
+    "messages",
+    "tools",
+    "settings"
+  ],
+  "sub": {
+    "quick_p1": ["quick_p2"],
+    "clock_digital": ["clock_analog"],
+    "messages": ["msg_inbox"],
+    "tools": ["tools_1", "tools_2", "tools_3", "tools_4"],
+    "settings": ["settings_updates"]
+  },
+  "hidden": {
+    "quick_p1": ["wifi_status", "bt_status", "lora_status", "mqtt_status_qp"],
+    "tools_1": ["tool1_hidden"],
+    "tools_2": ["tool2_hidden"],
+    "tools_3": ["tool3_hidden"],
+    "tools_4": ["tool4_hidden"]
+  },
+  "upmap": {
+    "clock_digital": "charge",
+    "messages": "msg_mqtt"
+  }
+}

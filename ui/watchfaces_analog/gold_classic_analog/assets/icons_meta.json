@@ -1,0 +1,276 @@
+{
+  "icons": [
+    {
+      "group": "wifi",
+      "state": "connected",
+      "x": 10,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 0,
+      "length": 800
+    },
+    {
+      "group": "wifi",
+      "state": "on",
+      "x": 10,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 800,
+      "length": 800
+    },
+    {
+      "group": "wifi",
+      "state": "search",
+      "x": 10,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 1600,
+      "length": 800
+    },
+    {
+      "group": "wifi",
+      "state": "connecting",
+      "x": 10,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 2400,
+      "length": 800
+    },
+    {
+      "group": "wifi",
+      "state": "error",
+      "x": 10,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 3200,
+      "length": 800
+    },
+    {
+      "group": "wifi",
+      "state": "off",
+      "x": 10,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 4000,
+      "length": 800
+    },
+    {
+      "group": "bt",
+      "state": "connected",
+      "x": 34,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 4800,
+      "length": 800
+    },
+    {
+      "group": "bt",
+      "state": "on",
+      "x": 34,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 5600,
+      "length": 800
+    },
+    {
+      "group": "bt",
+      "state": "pairing",
+      "x": 34,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 6400,
+      "length": 800
+    },
+    {
+      "group": "bt",
+      "state": "connecting",
+      "x": 34,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 7200,
+      "length": 800
+    },
+    {
+      "group": "bt",
+      "state": "error",
+      "x": 34,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 8000,
+      "length": 800
+    },
+    {
+      "group": "bt",
+      "state": "off",
+      "x": 34,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 8800,
+      "length": 800
+    },
+    {
+      "group": "lora",
+      "state": "on",
+      "x": 82,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 9600,
+      "length": 800
+    },
+    {
+      "group": "lora",
+      "state": "off",
+      "x": 82,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 10400,
+      "length": 800
+    },
+    {
+      "group": "lora",
+      "state": "search",
+      "x": 82,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 11200,
+      "length": 800
+    },
+    {
+      "group": "lora",
+      "state": "tx",
+      "x": 82,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 12000,
+      "length": 800
+    },
+    {
+      "group": "lora",
+      "state": "rx",
+      "x": 82,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 12800,
+      "length": 800
+    },
+    {
+      "group": "msg",
+      "state": "on",
+      "x": 58,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 13600,
+      "length": 800
+    },
+    {
+      "group": "msg",
+      "state": "off",
+      "x": 58,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 14400,
+      "length": 800
+    },
+    {
+      "group": "charge",
+      "state": "on",
+      "x": 185,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 15200,
+      "length": 800
+    },
+    {
+      "group": "charge",
+      "state": "off",
+      "x": 185,
+      "y": 5,
+      "w": 20,
+      "h": 20,
+      "offset": 16000,
+      "length": 800
+    },
+    {
+      "group": "battery",
+      "state": "0",
+      "x": 209,
+      "y": 5,
+      "w": 26,
+      "h": 20,
+      "offset": 16800,
+      "length": 1040
+    },
+    {
+      "group": "battery",
+      "state": "20",
+      "x": 209,
+      "y": 5,
+      "w": 26,
+      "h": 20,
+      "offset": 17840,
+      "length": 1040
+    },
+    {
+      "group": "battery",
+      "state": "40",
+      "x": 209,
+      "y": 5,
+      "w": 26,
+      "h": 20,
+      "offset": 18880,
+      "length": 1040
+    },
+    {
+      "group": "battery",
+      "state": "60",
+      "x": 209,
+      "y": 5,
+      "w": 26,
+      "h": 20,
+      "offset": 19920,
+      "length": 1040
+    },
+    {
+      "group": "battery",
+      "state": "80",
+      "x": 209,
+      "y": 5,
+      "w": 26,
+      "h": 20,
+      "offset": 20960,
+      "length": 1040
+    },
+    {
+      "group": "battery",
+      "state": "100",
+      "x": 209,
+      "y": 5,
+      "w": 26,
+      "h": 20,
+      "offset": 22000,
+      "length": 1040
+    }
+  ],
+  "format": "RGB565BE",
+  "note": "auto-baked with background"
+}

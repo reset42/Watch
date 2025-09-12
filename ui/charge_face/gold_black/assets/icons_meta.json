@@ -1,0 +1,21 @@
+{
+  "format": "rgb565",
+  "icons": [
+    {
+      "group": "bolt",
+      "state": "on",
+      "offset": 0,
+      "length": 3200,
+      "w": 40,
+      "h": 40
+    },
+    {
+      "group": "usb",
+      "state": "on",
+      "offset": 3200,
+      "length": 3200,
+      "w": 40,
+      "h": 40
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "gold_classic_analog",
+  "type": "analog",
+  "version": "0.6.6",
+  "notes": "Immediate icon blit; wifi uses 'connecting' tag; pairs with screens/clock_analog v0.4.7."
+}
